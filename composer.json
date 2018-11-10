@@ -1,0 +1,17 @@
+{
+  "name": "theo/library",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Theodora Tica",
+      "email": "theo_din2007@yahoo.es"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/",
+      "Core\\": "core/"
+    }
+  }
+}
